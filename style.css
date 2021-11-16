@@ -24,12 +24,12 @@
   .grid-item2{
     grid-column: 3/5;
     grid-row: 1/7;
-    background-color:rgb(208, 208, 112) !important;
+    background-color:rgb(120, 120, 23) !important;
   }
   .grid-item6{
     grid-column: 3/4;
     grid-row:7/9;
-    background-color:rgb(212, 134, 103) !important;
+    background-color:rgb(138, 78, 55) !important;
 
 
   }
